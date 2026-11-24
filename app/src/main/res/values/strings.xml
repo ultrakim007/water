@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">약·물 체크</string>
+
+    <!-- Header & Date -->
+    <string name="today_label">오늘</string>
+    <string name="reset_button">초기화</string>
+    <string name="reset_button_desc">오늘 기록 초기화</string>
+    <string name="med_summary_progress">오늘 약 %1$d / 3 복용</string>
+    <string name="med_summary_all_done">오늘 약 모두 복용 완료!</string>
+
+    <!-- Medication Section -->
+    <string name="section_medication_title">오늘의 약 복용</string>
+    <string name="med_morning_title">아침 약</string>
+    <string name="med_lunch_title">점심 약</string>
+    <string name="med_dinner_title">저녁 약</string>
+    <string name="med_status_taken">복용 완료</string>
+    <string name="med_status_pending">복용 전</string>
+    <string name="med_tap_to_check">누르면 복용 완료로 바뀌어요</string>
+    <string name="med_taken_time_format">%1$s 복용 완료</string>
+    <string name="med_icon_taken_desc">복용 완료 체크됨</string>
+    <string name="med_icon_pending_desc">복용 전 아이콘</string>
+
+    <!-- Water Section -->
+    <string name="section_water_title">오늘 마신 물</string>
+    <string name="water_cup_unit">잔</string>
+    <string name="water_goal_format">목표 %1$d잔</string>
+    <string name="water_add_button">물 한 잔 마셨어요 (+1컵)</string>
+    <string name="water_minus_label">-1</string>
+    <string name="water_minus_desc">물 한 잔 줄이기</string>
+    <string name="water_cup_filled_desc">%1$d번째 물컵 채워짐</string>
+    <string name="water_cup_empty_desc">%1$d번째 물컵 비어있음</string>
+    <string name="water_encourage_start">시원한 물 한 잔으로 건강을 챙겨보세요</string>
+    <string name="water_encourage_progress">목표까지 %1$d잔 남았어요. 잘하고 계세요!</string>
+    <string name="water_encourage_goal_reached">오늘 목표 8잔 달성! 아주 잘 하셨어요!</string>
+    <string name="water_encourage_extra">목표보다 %1$d잔 더 마셨어요! 훌륭해요!</string>
+
+    <!-- Reset Dialog -->
+    <string name="reset_dialog_title">오늘 기록을 지울까요?</string>
+    <string name="reset_dialog_message">오늘 체크한 약 복용과 물 마시기 기록이 모두 처음으로 돌아갑니다.</string>
+    <string name="reset_dialog_confirm">초기화하기</string>
+    <string name="reset_dialog_cancel">취소</string>
+</resources>
